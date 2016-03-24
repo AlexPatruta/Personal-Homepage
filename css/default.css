@@ -1,0 +1,15 @@
+body{
+  background-image: url("../img/4k_city.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.row{
+  color: rgb(255, 255, 255);
+  margin-top: 20em;
+}
+.card {
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 2em;
+  box-shadow: 0em 0em 2em rgba(0, 0, 0, 0.7);
+}
