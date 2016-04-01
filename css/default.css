@@ -33,6 +33,8 @@ body{
   transform: translate(-50%, -50%);
 }
 .button:hover{
+  min-width: 48px;
+  min-height: 48px;
   box-shadow: 0em 0em 1em rgba(255, 255, 255, 0.8);
   transform: translate(1%, 1%);
 }
