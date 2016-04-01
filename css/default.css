@@ -7,11 +7,16 @@ body{
   -o-background-size: cover;
   background-size: cover;
   }
+  img, embed, object, video{
+    max-width: 100%;
+  }
 .row{
 
 }
 .card {
+  overflow: hidden;
   width: 80%;
+  height: 100%;
   margin: 0 auto;
   color: rgba(255, 255, 255, 1.0);
   background-color: rgba(0, 0, 0, 0.8);
